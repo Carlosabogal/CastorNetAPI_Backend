@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9/2bqrlshjqGm5VYWOikUPw430JKirz24maLV9rvCWw=",
+  "Source": "TestNetCore-Castor",
+  "BasePath": "_content/TestNetCore-Castor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
